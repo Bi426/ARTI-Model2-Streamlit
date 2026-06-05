@@ -1,0 +1,42 @@
+{
+  "Alanine.aminotransferase": {
+    "type": "numeric",
+    "median": 31.0
+  },
+  "Interleukin.6": {
+    "type": "numeric",
+    "median": 32.14
+  },
+  "Hemoglobin": {
+    "type": "numeric",
+    "median": 120.0
+  },
+  "Age": {
+    "type": "numeric",
+    "median": 59.0
+  },
+  "Monocyte": {
+    "type": "numeric",
+    "median": 0.61
+  },
+  "Type.2.diabetes.mellitus": {
+    "type": "numeric",
+    "median": 0.0
+  },
+  "Cough": {
+    "type": "numeric",
+    "median": 0.0
+  },
+  "Hypertension": {
+    "type": "numeric",
+    "median": 0.0
+  },
+  "C.reactive.protein": {
+    "type": "numeric",
+    "median": 33.23
+  },
+  "Procalcitonin": {
+    "type": "numeric",
+    "median": 0.393
+  }
+}
